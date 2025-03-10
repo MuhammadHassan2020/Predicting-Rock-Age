@@ -73,6 +73,12 @@ Similar to EMPA, this correlation matrix highlights relationships between Laser 
 | XGBoost                | **95%**    |
 | Deep Learning (CNN)     | **97%**    |
 
+### DeepLearning Models Tested
+![Accuracy of model on EMPA](/Model_accuracy_On_EmpaDataset.png)
+![Accuracy of model of LaserAblation](/Model_accuracy_on_LaserAblation_Dataset.png)
+
+![Loss of model on EMPA](/Model_loss_on_EmpaDataset.png)
+![Loss of model of LaserAblation](/Model_loss_on_LaserAblation_Dataset.png)
 ### **Feature Importance - EMPA**
 This bar chart showcases the **most important EMPA features** contributing to the prediction model.
 
