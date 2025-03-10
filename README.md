@@ -68,4 +68,4 @@ jupyter notebook analysis_notebook.ipynb
 ##🔗 **Connect With Me**
 💡 If you find this project useful, feel free to connect!
 📩 Email: mhassan.abid2024@gmail.com
-🔗 LinkedIn: [Your LinkedIn Profile]
+🔗 LinkedIn: [www.linkedin.com/in/m-hassan-abid]
