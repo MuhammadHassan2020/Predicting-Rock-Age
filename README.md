@@ -52,7 +52,7 @@ The dataset contains elemental compositions of volcanic rocks analyzed in differ
 ### **Feature Distribution**
 The following plot represents the **distribution of geochemical features** in the dataset. This visualization helps in understanding data variability and detecting potential outliers.
 
-![Feature Distribution](visualizations/Data_distribution_graph.png)
+![Feature Distribution](/Data_distribution_graph.png)
 
 ### **EMPA Correlation Matrix**
 This heatmap shows the **correlation between different EMPA elements**, allowing us to identify highly correlated features that may impact model performance.
