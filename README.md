@@ -57,12 +57,12 @@ The following plot represents the **distribution of geochemical features** in th
 ### **EMPA Correlation Matrix**
 This heatmap shows the **correlation between different EMPA elements**, allowing us to identify highly correlated features that may impact model performance.
 
-![EMPA Correlation Matrix](/empa_correlation_matrix.png)
+![EMPA Correlation Matrix](/Empa_heat_map.png)
 
 ### **Laser Ablation Correlation Matrix**
 Similar to EMPA, this correlation matrix highlights relationships between Laser Ablation elements. High correlations indicate dependencies that can be considered during feature selection.
 
-![Laser Ablation Correlation Matrix](/laser_ablation_correlation_matrix.png)
+![Laser Ablation Correlation Matrix](/Laser_ablation_heat_map.png)
 
 ## 📈 Machine Learning & Data Analysis Models
 ### Models Tested
@@ -76,12 +76,13 @@ Similar to EMPA, this correlation matrix highlights relationships between Laser 
 ### **Feature Importance - EMPA**
 This bar chart showcases the **most important EMPA features** contributing to the prediction model.
 
-![Feature Importance - EMPA](/feature_importance_empa.png)
+![Feature Importance - EMPA](/Feature_of_EMP.png)
 
 ### **Feature Importance - Laser Ablation**
 This plot highlights the **top contributing features** from the Laser Ablation dataset used in model training.
 
-![Feature Importance - Laser Ablation](/feature_importance_laser_ablation.png)
+![Feature Importance - Laser Ablation](/Feature_of_LaserAblation.png)
+
 
 ## 📌 Key Insights & Business Impact
 - 🔹 **Laser Ablation data provides deeper insights** but introduces variability due to missing values.
