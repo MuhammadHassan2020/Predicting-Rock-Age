@@ -41,6 +41,7 @@ sns.heatmap(data.corr(), cmap="coolwarm", annot=False, linewidths=0.5)
 plt.title("Feature Correlation Heatmap")
 plt.show()
 
+
 ## 📌 Key Insights & Business Impact
 - 🔹 **Laser Ablation data provides deeper insights** but introduces variability due to missing values.
 - 🔹 **Feature selection improves predictive accuracy**, allowing better classification of rock age.
