@@ -31,15 +31,6 @@ The dataset contains elemental compositions of volcanic rocks analyzed in differ
 4. **Pie Chart** – Displays the proportion of missing values for each element.
 5. **Model Accuracy Comparison** – Evaluates different machine learning models.
 
-### 📌 Visualization Sample Code
-```python
-import seaborn as sns
-import matplotlib.pyplot as plt
-
-plt.figure(figsize=(12, 8))
-sns.heatmap(data.corr(), cmap="coolwarm", annot=False, linewidths=0.5)
-plt.title("Feature Correlation Heatmap")
-plt.show()
 
 
 ## 📌 Key Insights & Business Impact
