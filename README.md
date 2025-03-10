@@ -39,6 +39,7 @@ The dataset contains elemental compositions of volcanic rocks analyzed in differ
 - 🔹 **Data visualization helps in trend identification**, which is crucial for geochemical studies.
 - 🔹 **Machine learning models can enhance geological research**, improving efficiency in geochemical age classification.
 
+
 ## 📁 Project Structure
 ```bash
 📂 Predict_Rock_Age
@@ -61,7 +62,8 @@ git clone https://github.com/yourusername/Predict_Rock_Age.git
 
 pip install -r requirements.txt
 
-jupyter notebook analysis_notebook.ipynb
+jupyter notebook analysis_notebook.ipynb 
+.
 
 ##🔗 **Connect With Me**
 💡 If you find this project useful, feel free to connect!
