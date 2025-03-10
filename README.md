@@ -64,7 +64,20 @@ Similar to EMPA, this correlation matrix highlights relationships between Laser 
 
 ![Laser Ablation Correlation Matrix](/Laser_ablation_heat_map.png)
 
+
+
 ## 📈 Machine Learning & Data Analysis Models
+
+### **Feature Importance - EMPA**
+This bar chart showcases the **most important EMPA features** contributing to the prediction model.
+
+![Feature Importance - EMPA](/Feature_of_EMP.png)
+
+### **Feature Importance - Laser Ablation**
+This plot highlights the **top contributing features** from the Laser Ablation dataset used in model training.
+
+![Feature Importance - Laser Ablation](/Feature_of_LaserAblation.png)
+
 ### Models Tested
 | **Model**                | **Accuracy** |
 |-------------------------|------------|
@@ -79,15 +92,7 @@ Similar to EMPA, this correlation matrix highlights relationships between Laser 
 
 ![Loss of model on EMPA](/Model_loss_on_EmpaDataset.png)
 ![Loss of model of LaserAblation](/Model_loss_on_LaserAblation_Dataset.png)
-### **Feature Importance - EMPA**
-This bar chart showcases the **most important EMPA features** contributing to the prediction model.
 
-![Feature Importance - EMPA](/Feature_of_EMP.png)
-
-### **Feature Importance - Laser Ablation**
-This plot highlights the **top contributing features** from the Laser Ablation dataset used in model training.
-
-![Feature Importance - Laser Ablation](/Feature_of_LaserAblation.png)
 
 
 ## 📌 Key Insights & Business Impact
