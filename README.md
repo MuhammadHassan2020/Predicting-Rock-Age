@@ -63,7 +63,7 @@ git clone https://github.com/yourusername/Predict_Rock_Age.git
 pip install -r requirements.txt
 
 jupyter notebook analysis_notebook.ipynb 
-.
+
 
 ##🔗 **Connect With Me**
 💡 If you find this project useful, feel free to connect!
