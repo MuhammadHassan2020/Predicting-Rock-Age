@@ -3,6 +3,16 @@
 ## Overview
 This project focuses on analyzing geochemical data from volcanic rock samples to predict rock age using **data analysis techniques and machine learning models**. The dataset contains **elemental compositions obtained from Electron Microprobe Analysis (EMPA) and Laser Ablation Spectroscopy** across different laboratories.
 
+## 🧠 Business Problem  
+Determining the age of volcanic rocks is a crucial yet complex task in geology. Traditional dating methods can be expensive, time-consuming, and destructive. There's a growing need for **data-driven, non-destructive techniques** that use chemical composition to estimate the rock's age accurately.  
+This project addresses the challenge by leveraging **geochemical analysis and machine learning** to develop a reliable predictive model for rock age estimation.
+
+## 💥 Business Impact  
+- ⛏️ **Accelerates geological research** by automating age prediction of rocks based on their chemical signatures.  
+- 💰 **Reduces the cost and time** associated with conventional radiometric dating techniques.  
+- 🌍 **Assists mining and exploration industries** in identifying promising rock formations quickly.  
+- 🧪 **Enhances data-driven decision-making** in academic and field-based geoscience applications.
+
 ## Features
 - **Data Cleaning & Preprocessing** – Handling missing values, normalizing data, and structuring datasets.
 - **Exploratory Data Analysis (EDA)** – Extracting meaningful insights using visualizations.
